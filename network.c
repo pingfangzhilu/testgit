@@ -5,6 +5,10 @@ void remove_ok()
 
 }
 
+void test_git_v4()
+{
+
+}
 
 void add_git_v3()
 {
