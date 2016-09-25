@@ -15,6 +15,10 @@ void add_git_v3()
 
 }
 
+void num1_v1()
+{
+
+}
 int main(void)
 {
 	printf("hello world \n");
