@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+void add_git_v2()
+{
+
+}
+
 int main(void)
 {
 	printf("hello world \n");
