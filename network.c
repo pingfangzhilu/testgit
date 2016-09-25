@@ -1,6 +1,9 @@
 #include <stdio.h>
 
+void remove_ok()
+{
 
+}
 
 
 void add_git_v3()
