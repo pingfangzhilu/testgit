@@ -10,6 +10,7 @@ void test_git_v4()
 
 }
 
+int num1_vaule=1;
 void add_git_v3()
 {
 
