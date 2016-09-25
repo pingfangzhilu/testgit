@@ -14,6 +14,7 @@ void add_git_v3()
 {
 
 }
+int num2_vaule=0;
 
 void num2_add_v1()
 {
