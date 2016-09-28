@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+void test_branch()
+{
+	printf("test branch \n");
+}
 void remove_ok()
 {
 
